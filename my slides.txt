@@ -1,0 +1,15 @@
+Slide 8:
+Now , talking about the datasets
+a collection of instances is a dataset and when working with machine learning methods we typically need a few datasets for different purposes.
+Machine learning methods learn from examples.It is important to have a good grasp of input data and the various terminology used when describing data.
+For this project, we have used million songs dataset from kaggle which has data of 1 million users and 1/2 million songs.
+This dataset contains two files
+1.Song data: which has song_id,title, release,artist name , year 
+2.Triplet: which has user_id,song_id and listen count
+
+Slide 9:
+So, this was about the dataset.
+Now, the hardware requirements for this project are computer or laptop with minimum Intel i3 6th gen with 4gb ram and software requirements are python, Html, css, numpy, pandas, jupyter notebooks ,etc.
+
+Slide 10:
+Then these are the reference links and papers used for this project 
